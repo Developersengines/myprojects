@@ -1,0 +1,7 @@
+<!DOCTYPE>
+<html>
+<body>
+ <p> <b> ma premiere pas en HTML </b> </p>
+</body>
+</html>
+

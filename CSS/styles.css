@@ -1,0 +1,7 @@
+pre{color:rgb(255, 0, 119); }
+#myt{color: blue; font-size: 40px; text-align: center;}
+.myt2{color: purple; font-size: 40px; background-color: burlywood;}
+#titr{font-size: 20px; color: rgba(2, 8, 12, 0.842) ;background-color: chocolate;  }
+.myt3{background-image: url(cat.jpg);color: rgb(255, 0, 119); 
+    background-size:calc(300px); font-weight: bold;border-width: 5px;border-color: rgb(0, 0, 0);
+    border-style: solid;border-width: 10px;}
